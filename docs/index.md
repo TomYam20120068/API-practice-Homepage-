@@ -1,19 +1,24 @@
-## Welcome to GitHub Pagesああああああ
+## This is my Home page!!
 
-You can use the [editor on GitHub](https://github.com/Yamaji0068/API-practice-Homepage-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+ようこそ、私のホームページへ！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ここでは私のことについてを紹介します[ああああ](https://www.google.com/?hl=ja)
+
+### 自己紹介
+
+私についていくつか紹介します
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+・名前：　〇〇　〇〇
+・大学：　〇〇大学
+・趣味:高校
+
+mark down to alive jusufh (ec fuuu)
+
 
 - Bulleted
 - List
