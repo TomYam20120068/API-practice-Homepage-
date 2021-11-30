@@ -11,7 +11,7 @@
 私についていくつか紹介します
 
 ```markdown
-Syntax highlighted code block
+
 
 ・名前：　〇〇　〇〇
 ・大学：　〇〇大学
