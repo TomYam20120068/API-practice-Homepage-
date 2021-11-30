@@ -15,21 +15,13 @@ Syntax highlighted code block
 
 ・名前：　〇〇　〇〇
 ・大学：　〇〇大学
-・趣味:高校
-
-mark down to alive jusufh (ec fuuu)
+・趣味:ゲーム、読書、映画鑑賞
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
