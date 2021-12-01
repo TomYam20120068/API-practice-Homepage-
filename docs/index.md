@@ -37,7 +37,7 @@ R2年
 ```
 ゲーム名　 ：PSO2NGS　
 ジャンル  ：オンラインゲーム
-公式ホームページ：[PSO2NGS ホームページ](https://pso2.jp/players/)
+公式ホームページ：[PSO2NGS ホームページ](https://pso2.jp/players)
 サービス開始日:2021年6月9日
 ```
 
