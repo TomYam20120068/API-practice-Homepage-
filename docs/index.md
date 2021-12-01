@@ -4,7 +4,7 @@
 
 
 
-ここでは私のことについてを紹介します[ああああ](https://www.google.com/?hl=ja)
+ここでは私のことについてを紹介します
 
 ### 自己紹介
 
@@ -22,7 +22,7 @@
 ```
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### 近況報告
 
